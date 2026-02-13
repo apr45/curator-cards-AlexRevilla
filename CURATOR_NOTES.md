@@ -53,17 +53,17 @@ Paste the BEST output. Delete everything else.
 
 Design History Concept Map
 Design History Evolution
-I. Bauhaus (1919–1933)
+1. Bauhaus (1919–1933)
   * Background: Response to Post-WWI Germany; an attempt to reconcile individual creativity with the manufacturing power of the machine age.
   * Core Principles: "Form follows function," use of geometric shapes, primary color palettes, and the removal of all non-essential decoration.
   * Key Figures: Walter Gropius, Herbert Bayer, László Moholy-Nagy.
   * Relationship: The Blueprint. Laid the foundation for modern design; prioritized minimalism and mass production. 
-II. International Typographic Style / Swiss Style (1950s–1970s)
+2. International Typographic Style / Swiss Style (1950s–1970s)
   * Background: Emerged in Switzerland; a need for clear, universal communication
   * Core Principles: Mathematical grid systems, asymmetrical balance, objective photography over illustration, and a preference for Helvetica.
   * Key Figures: Josef Müller-Brockmann, Armin Hofmann, Emil Ruder.
   * Relationship: The Perfectionist. Refined Bauhaus ideals into a rigid, objective, and globally standardized system.
-III. New Wave Typography / Swiss Punk (1970s–1980s)
+3. New Wave Typography / Swiss Punk (1970s–1980s)
   * Background: Post-modern revolt against the perceived rigidness and predictability of the Swiss Style.
   * Core Principles: Breaking the grid, overlapping layers, wide letter-spacing, and "intuitive" layouts.
   * Key Figures: Wolfgang Weingart, April Greiman, Dan Friedman.
