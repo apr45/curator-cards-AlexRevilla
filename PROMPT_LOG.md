@@ -7,12 +7,22 @@
 
 ## Prompt 1
 
-- **Phase:** Exploration / Production / Critique *(pick one)*
-- **Prompt name:** *(e.g., "Concept Map", "Draft Labels", "Expert Critique")*
+- **Phase:** Exploration
+- **Prompt name:** Design Movement Concept Map
 - **What I sent:**
 
 ```
-[Paste the prompt you used here]
+[Generate a simple and very short concept map describing these three design movements based on core principles, key figures, background, and their relationship to each other:
+
+- Bauhaus (1919–1933)
+
+- International Typographic Style / Swiss Style (1950s–1970s)
+
+- New Wave Typography / Swiss Punk (1970s–1980s)
+
+
+
+Convert concept map into plaintext with bullet points specific to each movement]
 ```
 
 - **What I got back (summary):**
