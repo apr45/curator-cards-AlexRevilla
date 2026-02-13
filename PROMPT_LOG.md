@@ -37,16 +37,27 @@ Convert concept map into plaintext with bullet points specific to each movement]
 
 ## Prompt 2
 
-- **Phase:**
-- **Prompt name:**
+- **Phase:** Exploration
+- **Prompt name:** Design Movements Key Terms
 - **What I sent:**
 
 ```
-[Paste prompt here]
+[You said
+Create a list of 20 professional domain-specific words used to define the following design movements:
+
+- Bauhaus (1919–1933),
+
+-  International Typographic Style / Swiss Style (1950s–1970s)
+
+- New Wave Typography / Swiss Punk (1970s–1980s)
+
+
+
+Make sure to note which movement the term applies to, and write a small and simple definition.]
 ```
 
 - **What I got back (summary):**
-
+Return 20 key characteristics, where 6 to 7 words were designated for a specific design movement. Change a few terms that didn't relate to the movement or had a vague definition.
 - **What I did with it:**
 
 ---
