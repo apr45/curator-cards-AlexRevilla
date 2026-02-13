@@ -57,7 +57,8 @@ Make sure to note which movement the term applies to, and write a small and simp
 ```
 
 - **What I got back (summary):**
-Return 20 key characteristics, where 6 to 7 words were designated for a specific design movement. Change a few terms that didn't relate to the movement or had a vague definition.
+  
+- Return 20 key characteristics, where 6 to 7 words were designated for a specific design movement. Change a few terms that didn't relate to the movement or had a vague definition.
 - **What I did with it:**
 
 ---
