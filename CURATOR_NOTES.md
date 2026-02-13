@@ -51,7 +51,7 @@ Source: AI-generated via Prompt Pack > Concept Map prompt.
 Paste the BEST output. Delete everything else.
 ```
 
-[Design History Concept Map
+Design History Concept Map
 Design History Evolution
 1. Bauhaus (1919–1933)
   * Background: Response to Post-WWI Germany; an attempt to reconcile individual creativity with the manufacturing power of the machine age.
@@ -67,7 +67,7 @@ Design History Evolution
   * Background: Post-modern revolt against the perceived rigidness and predictability of the Swiss Style.
   * Core Principles: Breaking the grid, overlapping layers, wide letter-spacing, and "intuitive" layouts.
   * Key Figures: Wolfgang Weingart, April Greiman, Dan Friedman.
-  * Relationship: The Rebel. It used the technical precision of the Swiss Style but intentionally "shattered" the rules to reintroduce human expression and visual complexity.]
+  * Relationship: The Rebel. It used the technical precision of the Swiss Style but intentionally "shattered" the rules to reintroduce human expression and visual complexity.
 ## PINNED: VOCABULARY
 
 ```
@@ -75,7 +75,7 @@ Source: AI-generated via Prompt Pack > Controlled Vocabulary prompt.
 Keep only the terms you will actually use. Kill the rest.
 ```
 
-[Bauhaus (1919–1933)
+Bauhaus (1919–1933)
   * Gesamtkunstwerk: A "total work of art" where different art forms are combined as a unified whole.
   * Geometric Abstraction: The use of simple shapes like circles, squares, and triangles as the building blocks of design.
   * Form Follows Function: The principle that the design of an object should be determined solely by its function.
@@ -97,7 +97,7 @@ New Wave Typography / Swiss Punk (1970s–1980s)
   * Mixed Typeweights: Combining bold, light, and condensed fonts within a single sentence or word.
   * High Contrast: A significant difference between the lightest and darkest tones.
   * Halftone Screens: Using visible dot patterns (common in low-budget printing) as a deliberate stylistic choice.
-  * Postmodernism: A philosophical, artistic, and cultural reaction against the ideas and values of modernism.]
+  * Postmodernism: A philosophical, artistic, and cultural reaction against the ideas and values of modernism.
 
 ## PINNED: CONFUSIONS AND BOUNDARIES
 
