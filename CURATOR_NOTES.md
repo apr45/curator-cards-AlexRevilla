@@ -52,35 +52,22 @@ Paste the BEST output. Delete everything else.
 ```
 
 Design History Concept Map
-1. Bauhaus (1919–1933)
-
-  * Background: Weimar Republic, Germany; a response to the Industrial Revolution seeking to merge craft with mass production.
-
-  * Core Principles: "Form follows function," use of geometric primitives (circle, square, triangle), and the integration of art and technology.
-
+Design History Evolution
+I. Bauhaus (1919–1933)
+  * Background: Response to Post-WWI Germany; an attempt to reconcile individual creativity with the manufacturing power of the machine age.
+  * Core Principles: "Form follows function," use of geometric shapes, primary color palettes, and the removal of all non-essential decoration.
   * Key Figures: Walter Gropius, Herbert Bayer, László Moholy-Nagy.
-
-  * Relationship: The Foundation. It pioneered the minimalist, sans-serif aesthetic that moved design away from Victorian ornamentation.
-
-2. International Typographic Style / Swiss Style (1950s–1970s)
-
-  * Background: Post-WWII Switzerland; focused on creating a "universal" visual language for global communication.
-
-  * Core Principles: Strict adherence to mathematical grid systems, objective clarity, asymmetrical layouts, and the use of Helvetica.
-
+  * Relationship: The Blueprint. Laid the foundation for modern design; prioritized minimalism and mass production. 
+II. International Typographic Style / Swiss Style (1950s–1970s)
+  * Background: Emerged in Switzerland; a need for clear, universal communication
+  * Core Principles: Mathematical grid systems, asymmetrical balance, objective photography over illustration, and a preference for Helvetica.
   * Key Figures: Josef Müller-Brockmann, Armin Hofmann, Emil Ruder.
-
-  * Relationship: The Dogma. It took Bauhaus ideals and codified them into a rigid, scientific system that prioritized legibility over personality.
-
-3. New Wave Typography / Swiss Punk (1970s–1980s)
-
-  * Background: A reaction by designers who felt the Swiss Style had become too predictable and "corporate."
-
-  * Core Principles: Breaking the grid, layered textures, letter-spacing manipulation, and "stair-step" typography.
-
+  * Relationship: The Perfectionist. Refined Bauhaus ideals into a rigid, objective, and globally standardized system.
+III. New Wave Typography / Swiss Punk (1970s–1980s)
+  * Background: Post-modern revolt against the perceived rigidness and predictability of the Swiss Style.
+  * Core Principles: Breaking the grid, overlapping layers, wide letter-spacing, and "intuitive" layouts.
   * Key Figures: Wolfgang Weingart, April Greiman, Dan Friedman.
-
-  * Relationship: The Rebellion. It utilized the technical foundation of the Swiss Style but intentionally "broke" the rules to reintroduce human intuition and complexity.
+  * Relationship: The Rebel. It used the technical precision of the Swiss Style but intentionally "shattered" the rules to reintroduce human expression and visual complexity.
 ## PINNED: VOCABULARY
 
 ```
