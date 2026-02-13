@@ -29,7 +29,7 @@ Convert concept map into plaintext with bullet points specific to each movement]
 
 *[1–3 sentences: what was useful, what was wrong, what you kept]*
 
-- **What I did with it:**
+- A bulleted layout of the three movements and information regarding their origins, key characteristics, important figures, and influence. While some of the information was generated correctly, I decided to switch some sections with other responses from previous prompts that I felt explained details better, or rewrote them to accurately reflect the history.
 
 *[Did you pin it? Discard it? Edit it? Promote it to AGENTS.md?]*
 
