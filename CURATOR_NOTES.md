@@ -51,7 +51,7 @@ Source: AI-generated via Prompt Pack > Concept Map prompt.
 Paste the BEST output. Delete everything else.
 ```
 
-Design History Concept Map
+[Design History Concept Map
 Design History Evolution
 1. Bauhaus (1919–1933)
   * Background: Response to Post-WWI Germany; an attempt to reconcile individual creativity with the manufacturing power of the machine age.
@@ -67,7 +67,7 @@ Design History Evolution
   * Background: Post-modern revolt against the perceived rigidness and predictability of the Swiss Style.
   * Core Principles: Breaking the grid, overlapping layers, wide letter-spacing, and "intuitive" layouts.
   * Key Figures: Wolfgang Weingart, April Greiman, Dan Friedman.
-  * Relationship: The Rebel. It used the technical precision of the Swiss Style but intentionally "shattered" the rules to reintroduce human expression and visual complexity.
+  * Relationship: The Rebel. It used the technical precision of the Swiss Style but intentionally "shattered" the rules to reintroduce human expression and visual complexity.]
 ## PINNED: VOCABULARY
 
 ```
@@ -75,7 +75,29 @@ Source: AI-generated via Prompt Pack > Controlled Vocabulary prompt.
 Keep only the terms you will actually use. Kill the rest.
 ```
 
-[PASTE HERE]
+[Bauhaus (1919–1933)
+  * Gesamtkunstwerk: A "total work of art" where different art forms are combined as a unified whole.
+  * Geometric Abstraction: The use of simple shapes like circles, squares, and triangles as the building blocks of design.
+  * Form Follows Function: The principle that the design of an object should be determined solely by its function.
+  * Sans-Serif Typography: Letterforms without "feet" (serifs) at the ends of strokes.
+  * Modernism: A movement in the arts that aims to break with ornate and traditional styles.
+  * Industrial Design: The process of designing products to be mass-produced.
+International Typographic Style / Swiss Style (1950s–1970s)
+  * Grid System: A mathematical framework used to organize content, ensuring a structured and consistent layout.
+  * Asymmetrical Balance: Creating visual harmony through the clever placement of unequal elements rather than mirroring them.
+  * Negative Space: The intentional use of empty space between or around subjects of an image to emphasize content.
+  * Objective Photography: Using clear, literal photos that aren't influenced by biases, emotions, and interpretations.
+  * Left-aligned: Text aligned on the left side only, creating a modern, clean edge that aids readability.
+  * Visual Hierarchy: The arrangement of elements to signal importance, usually through varying font sizes and colors.
+  * Helvetica: Swiss typeface designed to be neutral and legible, so the message stays clear.
+New Wave Typography / Swiss Punk (1970s–1980s)
+  * Deconstructed Grid: Taking traditional design "rules" (like the Swiss grid) and intentionally breaking or distorting them.
+  * Layering: Overlapping text, images, and patterns to create a sense of depth and visual complexity.
+  * Irregular Letterspacing: Intentionally stretching or tightening the space between letters to create a jagged, chaotic look.
+  * Mixed Typeweights: Combining bold, light, and condensed fonts within a single sentence or word.
+  * High Contrast: A significant difference between the lightest and darkest tones.
+  * Halftone Screens: Using visible dot patterns (common in low-budget printing) as a deliberate stylistic choice.
+  * Postmodernism: A philosophical, artistic, and cultural reaction against the ideas and values of modernism.]
 
 ## PINNED: CONFUSIONS AND BOUNDARIES
 
