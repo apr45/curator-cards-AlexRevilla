@@ -29,7 +29,7 @@ Convert concept map into plaintext with bullet points specific to each movement]
 
 *[1–3 sentences: what was useful, what was wrong, what you kept]*
 
-- A bulleted layout of the three movements and information regarding their origins, key characteristics, important figures, and influence. While some of the information was generated correctly, I decided to switch some sections with other responses from previous prompts that I felt explained details better, or rewrote them to accurately reflect the history.
+A bulleted layout of the three movements and information regarding their origins, key characteristics, important figures, and influence. While some of the information was generated correctly, I decided to switch some sections with other responses from previous prompts that I felt explained details better, or rewrote them to accurately reflect the history.
 
 *[Did you pin it? Discard it? Edit it? Promote it to AGENTS.md?]*
 
@@ -58,7 +58,7 @@ Make sure to note which movement the term applies to, and write a small and simp
 
 - **What I got back (summary):**
   
-- Return 20 key characteristics, where 6 to 7 words were designated for a specific design movement. Change a few terms that didn't relate to the movement or had a vague definition.
+Return 20 key characteristics, where 6 to 7 words were designated for a specific design movement. Change a few terms that didn't relate to the movement or had a vague definition.
 - **What I did with it:**
 
 ---
