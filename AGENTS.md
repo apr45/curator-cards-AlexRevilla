@@ -53,20 +53,21 @@ Use these terms. If a term is not on this list, define it before using it.
 | Term | Definition |
 |------|-----------|
 | Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Gesamtkunstwerk | A "total work of art" where different art forms are combined as a unified whole. |
+| Geometric Abstraction | The use of simple shapes like circles, squares, and triangles as the building blocks of design. |
+| Form Follows Function | The principle that the design of an object should be determined solely by its function. |
+| Sans-Serif Typography | Letterforms without "feet" (serifs) at the ends of strokes. |
+| Grid System | A mathematical framework used to organize content, ensuring a structured and consistent layout. |
+| Asymmetrical Balance | Creating visual harmony through the clever placement of unequal elements rather than mirroring them. |
+| Negative Space | The intentional use of empty space between or around subjects of an image to emphasize content. |
+| Objective Photography | Using clear, literal photos that aren't influenced by biases, emotions, and interpretations. |
+| Visual Hierarchy | The arrangement of elements to signal importance, usually through varying font sizes and colors. |
+| Helvetica | Swiss typeface designed to be neutral and legible, so the message stays clear. |
+| Deconstructed Grid | Taking traditional design "rules" (like the Swiss grid) and intentionally breaking or distorting them. |
+| Layering Typography | Overlapping text, images, and patterns to create a sense of depth and visual complexity. |
+| Irregular Letterspacing | Intentionally stretching or tightening the space between letters to create a jagged, chaotic look. |
+| Mixed Typeweights |Combining bold, light, and condensed fonts within a single sentence or word.
+| Postmodernism | A philosophical, artistic, and cultural reaction against the ideas and values of modernism. |
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
 
