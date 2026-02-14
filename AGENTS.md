@@ -56,7 +56,7 @@ Use these terms. If a term is not on this list, define it before using it.
 | Gesamtkunstwerk | A "total work of art" where different art forms are combined as a unified whole. |
 | Geometric Abstraction | The use of simple shapes like circles, squares, and triangles as the building blocks of design. |
 | Form Follows Function | The principle that the design of an object should be determined solely by its function. |
-| Sans-Serif Typography | Letterforms without "feet" (serifs) at the ends of strokes. |
+| Modernism | A movement in the arts that aims to break with ornate and traditional styles. |
 | Grid System | A mathematical framework used to organize content, ensuring a structured and consistent layout. |
 | Asymmetrical Balance | Creating visual harmony through the clever placement of unequal elements rather than mirroring them. |
 | Negative Space | The intentional use of empty space between or around subjects of an image to emphasize content. |
