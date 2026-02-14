@@ -75,14 +75,14 @@ Source: AI-generated via Prompt Pack > Controlled Vocabulary prompt.
 Keep only the terms you will actually use. Kill the rest.
 ```
 
-Bauhaus (1919–1933)
+1. Bauhaus (1919–1933)
   * Gesamtkunstwerk: A "total work of art" where different art forms are combined as a unified whole.
   * Geometric Abstraction: The use of simple shapes like circles, squares, and triangles as the building blocks of design.
   * Form Follows Function: The principle that the design of an object should be determined solely by its function.
   * Sans-Serif Typography: Letterforms without "feet" (serifs) at the ends of strokes.
   * Modernism: A movement in the arts that aims to break with ornate and traditional styles.
   * Industrial Design: The process of designing products to be mass-produced.
-International Typographic Style / Swiss Style (1950s–1970s)
+2. International Typographic Style / Swiss Style (1950s–1970s)
   * Grid System: A mathematical framework used to organize content, ensuring a structured and consistent layout.
   * Asymmetrical Balance: Creating visual harmony through the clever placement of unequal elements rather than mirroring them.
   * Negative Space: The intentional use of empty space between or around subjects of an image to emphasize content.
@@ -90,7 +90,7 @@ International Typographic Style / Swiss Style (1950s–1970s)
   * Left-aligned: Text aligned on the left side only, creating a modern, clean edge that aids readability.
   * Visual Hierarchy: The arrangement of elements to signal importance, usually through varying font sizes and colors.
   * Helvetica: Swiss typeface designed to be neutral and legible, so the message stays clear.
-New Wave Typography / Swiss Punk (1970s–1980s)
+3. New Wave Typography / Swiss Punk (1970s–1980s)
   * Deconstructed Grid: Taking traditional design "rules" (like the Swiss grid) and intentionally breaking or distorting them.
   * Layering: Overlapping text, images, and patterns to create a sense of depth and visual complexity.
   * Irregular Letterspacing: Intentionally stretching or tightening the space between letters to create a jagged, chaotic look.
@@ -106,7 +106,21 @@ Source: AI-generated via Prompt Pack > Confusions prompt.
 Pin the distinctions that surprised you or corrected you.
 ```
 
-[PASTE HERE]
+1. Bauhaus vs. Art Deco
+ * The Confusion: Both emerged in the 1920s and use geometric shapes, leading people to label anything "vintage-modern" as either one.
+ * The Difference: Art Deco is ornamental and glamorous, using geometry for luxury and style (think The Great Gatsby). The Bauhaus is functionalist and stripped-back; if a design element doesn't serve a structural purpose, a Bauhaus designer would likely remove it.
+
+2. Swiss Style vs. Minimalism
+ * The Confusion: People often use these terms interchangeably because both value "less is more" and clean layouts.
+ * The Difference: Swiss Style is a specific system built on mathematical grids and objective clarity to communicate information. Minimalism is a broader aesthetic philosophy that can be applied to anything from lifestyle to fine art, focusing on the essence of a subject rather than a specific typographic rulebook.
+
+3. New Wave vs. Grunge Typography
+ * The Confusion: Both movements look "messy" compared to traditional design and rose to prominence through counter-culture.
+ * The Difference: New Wave (Swiss Punk) is architectural chaos; it purposefully breaks Swiss rules while still showing an underlying knowledge of layering and structure. Grunge (90s) is visceral and distressed; it focuses on texture, "dirty" edges, and raw emotion, often ignoring formal design structures entirely.
+
+4. Swiss Style vs. Bauhaus
+ * The Confusion: Since the Swiss Style evolved directly from Bauhaus principles (like sans-serif type and grids), they are often seen as the same "Modernist" movement.
+ * The Difference: The Bauhaus was an experimental school interested in the soul of the "total work" and the craft of the machine age. The Swiss Style took those ideas and turned them into a dogmatic, corporate standard for the mid-century, prioritizing absolute legibility and a "de-personalized" look over the Bauhaus's artistic experimentation.
 
 ---
 
@@ -114,8 +128,8 @@ Pin the distinctions that surprised you or corrected you.
 
 | Decision | Your Answer |
 |---|---|
-| Card 3 movement | [New Wave / Grunge — pick one, say why] |
-| Expert for critique | [Name — say why this expert for this card] |
+| Card 3 movement | [New Wave Typography - Personally seems more interesting than that of Grunge Typography, as it does not completely reject the principles of Swiss Style but rather twists some elements involved in Swiss Style while incorporating some fundamental rules.] |
+| Expert for critique | [Wolfgang Weingart - Often considered the pioneer of New Wave typography, I wonder about the thinking process behind the creation of New Wave and why.] |
 
 ## THINGS I CHANGED MY MIND ABOUT
 
