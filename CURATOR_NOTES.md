@@ -128,8 +128,8 @@ Pin the distinctions that surprised you or corrected you.
 
 | Decision | Your Answer |
 |---|---|
-| Card 3 movement | [New Wave Typography - Personally seems more interesting than that of Grunge Typography, as it does not completely reject the principles of Swiss Style but rather twists some elements involved in Swiss Style while incorporating some fundamental rules.] |
-| Expert for critique | [Wolfgang Weingart - Often considered the pioneer of New Wave typography, I wonder about the thinking process behind the creation of New Wave and why.] |
+| Card 3 movement | New Wave Typography - Personally seems more interesting than that of Grunge Typography, as it does not completely reject the principles of Swiss Style but rather twists some elements involved in Swiss Style while incorporating some fundamental rules. |
+| Expert for critique | Wolfgang Weingart - Often considered the pioneer of New Wave typography, I wonder about the thinking process behind the creation of New Wave and why. |
 
 ## THINGS I CHANGED MY MIND ABOUT
 
