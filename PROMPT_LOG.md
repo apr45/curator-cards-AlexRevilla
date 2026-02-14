@@ -12,7 +12,7 @@
 - **What I sent:**
 
 ```
-[Generate a simple and very short concept map describing these three design movements based on core principles, key figures, background, and their relationship to each other:
+Generate a simple and very short concept map describing these three design movements based on core principles, key figures, background, and their relationship to each other:
 
 - Bauhaus (1919–1933)
 
@@ -22,7 +22,7 @@
 
 
 
-Convert concept map into plaintext with bullet points specific to each movement]
+Convert concept map into plaintext with bullet points specific to each movement
 ```
 
 - **What I got back (summary):**
@@ -42,7 +42,6 @@ A bulleted layout of the three movements and information regarding their origins
 - **What I sent:**
 
 ```
-[You said
 Create a list of 20 professional domain-specific words used to define the following design movements:
 
 - Bauhaus (1919–1933),
@@ -53,7 +52,7 @@ Create a list of 20 professional domain-specific words used to define the follow
 
 
 
-Make sure to note which movement the term applies to, and write a small and simple definition.]
+Make sure to note which movement the term applies to, and write a small and simple definition.
 ```
 
 - **What I got back (summary):**
