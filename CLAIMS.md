@@ -18,7 +18,7 @@
 ## Card 2: Swiss Style
 
 ### Claim 1
-- **Claim:** Emerging in Switzerland and Germany, the Swiss Style—also known as the International Typographic Style—refined the principles of the Bauhaus into a rational and mathematical design language. 
+- **Claim:** Originating in Switzerland and Germany, the Swiss Style—also known as the International Typographic Style—refined the principles of the Bauhaus into a rational and mathematical design language. 
 - **Source link(s):** https://medium.com/fgd1-the-archive/beethoven-poster-by-josef-muller-brockmann-ce06940edf74
 - **Confidence:** High
 - **Notes:** Influences of the Bauhaus movement can be seen in Josef Müller-Brockmann's "Beethoven" poster, who was a leading designer in Swiss graphic design. The poster utilizes simple geometic shapes and clean sans-serif typography often found in the Bauhaus' works to convey musical rhythm. 
