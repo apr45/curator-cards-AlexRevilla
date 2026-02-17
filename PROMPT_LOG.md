@@ -88,6 +88,7 @@ If you are unsure about a certain fact, write VERIFY instead of guessing.
 Return a satisfactory reflection on the information presented; however, two vocabulary terms, “Form Follows Function” and “Geometric Abstraction,” were flagged due to their tone and alignment with the objectives of the Bauhaus school.
 
 - **What I did with it:**
+  
 Although I understood the reasons provided against those two terms, the replacement terms suggested would require additional context to grasp fully. Since I want to keep my curator card short, I decided to reject the replacements and keep the original vocabulary terms.
 ---
 
