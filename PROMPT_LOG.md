@@ -90,6 +90,7 @@ Return a satisfactory reflection on the information presented; however, two voca
 - **What I did with it:**
   
 Although I understood the reasons provided against those two terms, the replacement terms suggested would require additional context to grasp fully. Since I want to keep my curator card short, I decided to reject the replacements and keep the original vocabulary terms.
+
 ---
 
 *Add more entries as needed. Minimum 3 logged prompts for this assignment.*
