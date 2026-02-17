@@ -40,7 +40,7 @@ If you cannot define it in one sentence, you do not know it yet.
 
 1. Gesamtkunstwerk
 2. Objectivity
-3. Postmodern Contrasts
+3. Postmodernism
 
 ---
 
@@ -128,7 +128,7 @@ Pin the distinctions that surprised you or corrected you.
 
 | Decision | Your Answer |
 |---|---|
-| Card 3 movement | New Wave Typography - Personally seems more interesting than that of Grunge Typography, as it does not completely reject the principles of Swiss Style but rather twists some elements involved in Swiss Style while incorporating some fundamental rules. |
+| Card 3 movement | New Wave Typography - Personally seems more interesting than that of Grunge typography, as it does not completely reject the principles of Swiss Style but rather twists some elements involved in Swiss Style while incorporating some fundamental rules. |
 | Expert for critique | Wolfgang Weingart - Often considered the pioneer of New Wave typography, I wonder about the thinking process behind the creation of New Wave and why. |
 
 ## THINGS I CHANGED MY MIND ABOUT
@@ -138,5 +138,5 @@ After research, what did you reverse on? If nothing, you were not
 paying attention or you already knew everything. Pick one.
 ```
 
-1.
-2.
+1. I thought that Swiss Style completely took the core traits of the Bauhaus and made them into a style for graphic design, which I now know is that Swiss Style was inspired by the Bauhaus and other movements to create a standardized blueprint for a universal design language. 
+2. I initially thought that New Wave typography was the complete opposite of Swiss Style, following principles that oppose traditional rules; however, New Wave typography is essentially a structured, chaotic version of Swiss design, whereas Grunge typography takes New Wave to a different extreme. I used the comparison of these two typographies for the "Not to be confused with" section of my third card.
