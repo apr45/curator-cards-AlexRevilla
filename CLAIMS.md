@@ -28,7 +28,7 @@
 ## Card 3: New Wave Typography
 
 ### Claim 1
-- **Claim:** Emerged from the Basel School of Design in Switzerland, New Wave Typography emerged as a Postmodernism reaction against the rigid constraints of the Swiss Style.
+- **Claim:** Emerged from the Basel School of Design in Switzerland, New Wave typography developed as a Postmodernism reaction against the rigid constraints of the Swiss Style
 - **Source link(s):** https://collections.vam.ac.uk/item/O1155283/kunsthalle-basel-kunstkredit-76-77-poster-weingart-wolfgang/
 - **Confidence:** High
 - **Notes:** Weingart's "Kunsthalle Basel Kunstkredit 76-77" showchases the applied chaotic and stylistic elements of the New Wave typography that he experimented during his studies and teaching at the Basel School of Design.
